@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   
-<h2 align="center"> AutoScript Testing️</h2>
+<h2 align="center"> AutoScript SSH & Xray Multiport</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"width="400"></p>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
 </p>
@@ -14,7 +14,7 @@
   3. Edge Certificates > Disable Always Use HTTPS (off)
  
   
-  ##  Register IP 
+##  Register IP 
   
 <a href="https://t.me/zenhost_official" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br> 
 
@@ -22,27 +22,34 @@
 <br>
 </b>
 
-##  AUTOSCRIPT WEBSOCKET MULTIPORT DETAILS 
+##  AUTOSCRIPT MULTIPORT DETAILS 
 
 <b>
 [ SSH & XRAY SERVICES ] <br>
 <br>
-✅ SSH WEBSOCKET TLS & NON-TLS <br>
-✅ XRAY VMESS WEBSOCKET TLS & NON-TLS <br>
-✅ XRAY VLESS WEBSOCKET TLS & NON-TLS <br>
-✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS <br>
-✅ XRAY GRPC TLS <br>
+✓ SSH WEBSOCKET TLS & NON-TLS [443 / 80]<br>
+✓ XRAY VMESS WEBSOCKET TLS & NON-TLS [443 / 80]<br>
+✓ XRAY VLESS WEBSOCKET TLS & NON-TLS [443 / 80]<br>
+✓ XRAY TROJAN WEBSOCKET TLS & NON-TLS [443 / 80]<br>
+✓ XRAY SHADOWSOCKS WEBSOCKET TLS & NON-TLS [443 / 80]<br>
+✓ XRAY GRPC TLS [443]<br>
 <br>
 [ OTHER SERVICES ] <br>
 <br>
 
-✅ BANDWITH MONITOR <br>
-✅ CHECK LOGIN USER <br>
-✅ CHECK CREATED CONFIG <br>
-✅ AUTOMATIC CLEAR LOG <br>
-✅ AUTOMATIC VPS REBOOT <br>
-✅ BACKUP & RESTORE <br>
+✓ BANDWITH MONITOR <br>
+✓ CHECK LOGIN USER <br>
+✓ AUTO DELETE EXPIRED USER <br>
+✓ AUTOMATIC CLEAR LOG <br>
+✓ AUTOMATIC VPS REBOOT <br>
+✓ BACKUP & RESTORE <br>
 <br>
+## Syarat Install
+1. Wajib Punya Domain Sendiri
+2. Add Domain Ke Cloudflare
+3. Buat Record Subdomain DNS Cloudflare dengan ip VPS
+5. Gunakan VPS KVM Virtualisasi
+6. Rekomendasi OS Ubuntu 20 LTS
 <br>
 <font color="red"><b>Update Repo Khusus Debian 10 <br>
   
@@ -68,5 +75,5 @@ cd /etc/
 nano issue.net
 ```
 
-## Masih Dalam Tahap Testing
+## Freedom Your Network
 
